@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zmshaffer01
+- 👀 I’m interested in problem solving, data collection, machine learning, and automation
+- 🌱 I’m currently learning python, sql, and javascript
+- 📫 How to reach me zmshaffer01@gmail.com
